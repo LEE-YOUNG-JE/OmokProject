@@ -29,3 +29,7 @@ int** arrBoard, int x, int y를 인자로 받아서 arrBoard[y][x]자리에 흑�
 
 # int check22(int** arrBoard, int x, int y, int num1, int num2, int boardSize);
  int** arrBoard, int x, int y, int num1, int num2, int boardSize를 인자로 받고 CheckThreeAndThree함수에서 좀 더 용이하게 흑돌의 삼삼을 확인하기 위해 방향을 네군데(가로, 왼쪽대각선, 세로, 오른쪽대각선)로 나누고 각 방향별로 두 개의 흑돌이 있는지 확인하는 함수이다.
+
+
+# 결과화면
+![image](https://user-images.githubusercontent.com/76897007/141433203-a4dd4a96-7811-43ab-a3d0-0f3cdc8b9529.png)
